@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Modal from './modal';
 
 import staples from '../pics/staples.svg'
-import rising  from '../pics/rising_stars.svg'
+import rising  from '../pics/rising-stars.svg'
 
 
 
